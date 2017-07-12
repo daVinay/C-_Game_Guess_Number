@@ -9,3 +9,4 @@ User has to guess the number from 0-100 within 5 tries. Hints are given after ea
 
 ![won screen](https://user-images.githubusercontent.com/17915464/28102601-a6ba5c7a-6713-11e7-8066-9addfd0c19bf.png)
 
+![flowchart](https://user-images.githubusercontent.com/17915464/28104683-ae90db3e-671f-11e7-85c1-f680f39e35c4.png)
